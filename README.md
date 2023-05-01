@@ -1,2 +1,2 @@
 # Sistema_Academico-SACRU-
-SACRU (sistemas académico de recursos universitarios) es una aplicación de escritorio que administra los recursos académicos de estudiantes y profesores 
+SACRU: sistema académico es una aplicación de escritorio realizada en Java y Mysql. Contiene inicio de sesión para CRUD de estudiantes, facultad y programas. Beneficios, descuentos y multas según el promedio académico. Genera recibos para cada estudiante en PDF descargables.
